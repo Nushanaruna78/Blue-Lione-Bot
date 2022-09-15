@@ -6,7 +6,7 @@
 //© 2022 kavee Bot Inc. Dark nero Bot MD 
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
-// my owenr kaveesha
+// my owenr Nushan
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
@@ -161,7 +161,7 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
 	            const xdate = moment.tz('Asia/Kolkata').format('YYYY/MM/DD')
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                 xeonbody = `🐬 Hi👋 @${xeonName.split("@")[0]}
+                 xeonbody = `🤍👀 𝘏𝘌𝘓𝘓𝘖 👋 @${xeonName.split("@")[0]}
 
 🍁 Welcome To  ${metadata.subject}
 🍁 ${xmembers} Members
@@ -172,13 +172,13 @@ Time ⏰ =  ${xtime} `
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
    let buttons = [
-    {buttonId: `owner`, buttonText: {displayText: '👍 WELCOME 👍'}, type: 1},
+    {buttonId: `owner`, buttonText: {displayText: '𝘞𝘌𝘓𝘊𝘖𝘔𝘌😌💞'}, type: 1},
     {buttonId: `menu`, buttonText: {displayText: '♞ MENU ♞'}, type: 1}
     ]
 let buttonMessage = {
     image: { url: 'https://i.ibb.co/hXtGkzj/welcome-poster-spectrum-brush-strokes-white-background-colorful-gradient-brush-design-vector-paper-i.jpg'},
 caption: xeonbody,
-footer: `⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜`,
+footer: `𝘊𝘜𝘛𝘌 𝘚𝘌𝘕𝘜 ❤️`,
 buttons,
 headerType: 4
 }
@@ -190,7 +190,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage)
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: xeonbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                     xeonbody = `🐬 Bye👋 @${xeonName.split("@")[0]}
+                     xeonbody = `𝘉𝘠𝘌 😒 @${xeonName.split("@")[0]}
 
 🍁 Left From  ${metadata.subject}
 🍁 ${xeonmembers} Members
@@ -205,7 +205,7 @@ Time ⏰ =  ${xeontime} `
     let buttonMessage = {
         image: { url: 'https://i.ibb.co/gytytkM/images.jpg'},
     caption: xeonbody,
-    footer: `⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜`,
+    footer: `𝘊𝘜𝘛𝘌 𝘚𝘌𝘕𝘜 ❤️`,
     buttons,
     headerType: 4
     }
